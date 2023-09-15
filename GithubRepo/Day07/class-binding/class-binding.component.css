@@ -1,0 +1,17 @@
+.centerStyle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+button{
+    border-radius: 15px;
+}
+
+.textColor{
+  color: aqua;
+  font-size: medium;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
